@@ -1,0 +1,32 @@
+.foodItemContainer{
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
+    margin: 20px;
+    overflow: hidden;
+    font-family: Polysans, sans-serif ;
+}
+.itemImage{
+    max-width: 100%;
+    height: auto;
+}
+.itemContent{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.itemName{
+font-size: 1em;
+font-weight: 600;
+color:  #393e43;
+padding: 0 5px;
+}
+.btnView{
+    background-color: #189464;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
